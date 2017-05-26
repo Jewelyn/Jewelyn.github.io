@@ -1,0 +1,25 @@
+img{
+  max-width: 500px;
+  max-height: 1000px;
+  border-radius: 100px;
+  border: solid #138B8B 6px;
+
+
+}
+
+h1{
+  font-family: 'Pragati Narrow', sans-serif;
+  font-size: 24px;
+  color: #138B8B;
+
+}
+
+header{
+  background-image: url(https://68.media.tumblr.com/95340e1437666b63dd7b1b9a266318eb/tumblr_n25ui33hdO1qcdtsho1_500.jpg);
+}
+
+li{
+  display: inline;
+  font-family: 'Pragati Narrow', sans-serif;
+
+}
